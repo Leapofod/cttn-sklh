@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcatatan=self.webpackChunkcatatan||[]).push([[335],{3795:function(t){t.exports=JSON.parse('{"permalink":"/cttn-sklh/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":3,"previousPage":null,"nextPage":null,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

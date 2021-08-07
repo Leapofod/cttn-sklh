@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcatatan=self.webpackChunkcatatan||[]).push([[535],{5641:function(t){t.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Welcome","permalink":"/cttn-sklh/blog/welcome"},{"title":"Hello","permalink":"/cttn-sklh/blog/hello-world"},{"title":"Hola","permalink":"/cttn-sklh/blog/hola"}]}')}}]);

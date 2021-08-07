@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcatatan=self.webpackChunkcatatan||[]).push([[658],{819:function(a){a.exports=JSON.parse('{"allTagsPath":"/cttn-sklh/blog/tags","slug":"facebook","name":"facebook","count":1,"permalink":"/cttn-sklh/blog/tags/facebook"}')}}]);

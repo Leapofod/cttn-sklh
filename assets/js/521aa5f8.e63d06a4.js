@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcatatan=self.webpackChunkcatatan||[]).push([[452],{9246:function(a){a.exports=JSON.parse('{"allTagsPath":"/cttn-sklh/blog/tags","slug":"hola","name":"hola","count":1,"permalink":"/cttn-sklh/blog/tags/hola"}')}}]);
